@@ -1,6 +1,6 @@
 django
 django_rest_framework
-knox
+django-rest-knox
 django_rest_passwordreset   
 cryptography
 jinja2
