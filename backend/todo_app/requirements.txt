@@ -4,3 +4,10 @@ knox
 django_rest_passwordreset   
 cryptography
 jinja2
+boto3
+Werkzeug
+certifi
+chardet
+distribute
+gunicorn
+requests
