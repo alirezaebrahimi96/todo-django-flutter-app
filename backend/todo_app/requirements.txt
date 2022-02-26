@@ -1,4 +1,4 @@
 django
-rest_framework
+django_rest_framework
 knox
-django_rest_passwordreset
+django_rest_passwordreset   
