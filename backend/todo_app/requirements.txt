@@ -3,3 +3,4 @@ django_rest_framework
 knox
 django_rest_passwordreset   
 cryptography
+jinja2
