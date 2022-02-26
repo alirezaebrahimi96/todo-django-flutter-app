@@ -8,6 +8,5 @@ boto3
 Werkzeug
 certifi
 chardet
-distribute
 gunicorn
 requests
