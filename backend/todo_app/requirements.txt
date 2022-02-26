@@ -7,6 +7,3 @@ jinja2
 boto3
 Werkzeug
 certifi
-chardet
-gunicorn
-requests
