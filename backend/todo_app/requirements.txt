@@ -1,0 +1,4 @@
+django
+rest_framework
+knox
+django_rest_passwordreset
