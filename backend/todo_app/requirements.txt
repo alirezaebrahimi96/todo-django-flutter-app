@@ -7,4 +7,3 @@ jinja2
 boto3
 Werkzeug
 certifi
-os
